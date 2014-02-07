@@ -67,8 +67,4 @@ done
 
 # escreveram este programa:
 # angela ferreira
-# Fernando Graeff Machado
-# joao clovis
-# Reinaldo Reche Junior
-# Sodrecvel
-
+# Carla Pasa
